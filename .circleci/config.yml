@@ -3,7 +3,7 @@
             command: sudo apt update -y
         - run:
             name: abiah
-            command: ls
+            com
         - run:
             name: abuah
             command: unzip app.zip; chmod u+x *
